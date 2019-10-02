@@ -7,8 +7,11 @@ For data-driven turbulence modeling, we need benchmark data from systematically 
 
 The details are provided in the manuscript below: 
 - H. Xiao, J.-L. Wu, S. Laizet, L. Duan. Flows Over Periodic Hills of Parameterized Geometries:  A Dataset for Data-Driven Turbulence Modeling From Direct Simulations. Submitted to Computers and Fluids, 2019. 
-  
-  
+
+Notes on data format:
+- Mean flow data are provided in *coarse* meshes (comparable to those used in  RANS simulations) as OpenFOAM cases.
+- The same data on the original DNS meshes are also provided as ASCII files.
+- The data include mean pressure field, mean velocities fields, and second order statistics (Reynolds stress fields)
 
 
 Contact: Heng Xiao <hengxiao@vt.edu>, Jinlong Wu <jinlong@vt.edu>
