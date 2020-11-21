@@ -11,8 +11,11 @@ The details are provided in the paper below:
 Notes on data format:
 - Mean flow data are provided in *coarse* meshes (comparable to those used in  RANS simulations) as OpenFOAM cases.
 - The same data on the original DNS meshes are also provided as ASCII files.
-- The data include mean pressure field, mean velocities fields, and second order statistics (Reynolds stress fields)
-- Note: instantaneous data and higher order statistics are *not* saved during our simulations. 
+- The data include (and only include) 
+  * mean pressure field, 
+  * mean velocities fields, and 
+  * second order statistics of velocities (i.e., the Reynolds stress fields)
+- Note: instantaneous data and higher order statistics are *not* saved during our simulations; these data would require very large storage spaces.
 
 
 Contact: 
