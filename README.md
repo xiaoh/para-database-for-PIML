@@ -17,10 +17,10 @@ Notes on data format:
   * second order statistics of velocities (i.e., the Reynolds stress fields)
 - Note: instantaneous data and higher order statistics are *not* saved during our simulations; these data would require very large storage spaces.
 
-### Updates on April 15, 2021:
+### Additional data uploaded on April 15, 2021:
 - Dr. Laizet added a *new database with 27 simulations* (3 different heights, 3 different streamwise extents and 3 different hill shapes). For details see: ``pehill_new_DNS_database/README_NEWDATABASE.pdf``
 
 Contact: 
-- Heng Xiao <hengxiao@vt.edu> (Virginia Tech) 
 - Sylvain Laizet <s.laizet@imperial.ac.uk> (Imperial College London)
+- Heng Xiao <hengxiao@vt.edu> (Virginia Tech) 
 
