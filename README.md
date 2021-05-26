@@ -24,7 +24,7 @@ Notes on data format:
 
 Note: Data for α=3 is present missing.
 
-![Dataset](SeparationBubble.png)
+![Dataset](bubbles.png)
 
 
 ### Additional data uploaded on April 15, 2021:
