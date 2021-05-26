@@ -15,6 +15,7 @@ Notes on data format:
   * mean pressure field, 
   * mean velocities fields, and 
   * second order statistics of velocities (i.e., the Reynolds stress fields)
+  * mean dissipation rate (only for data uploaded on April 15, 2021 or later)
 - Note: instantaneous data and higher order statistics are *not* saved during our simulations; these data would require very large storage spaces.
 
 ### Additional data uploaded on April 15, 2021:
