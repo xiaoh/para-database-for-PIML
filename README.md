@@ -21,6 +21,8 @@ Notes on data format:
 ### Additional data uploaded on April 15, 2021:
 - Dr. Laizet added a *new database with 27 simulations* (Reynolds=5600, 3 different heights, 3 different streamwise extents and 3 different hill shapes). For details see:  [``pehill_new_DNS_database/README``](pehill_new_DNS_database/README_NEWDATABASE.pdf)
 
+[[../pehill_new_DNS_database/full_databased_HR_T.png]]
+
 Contact: 
 - Sylvain Laizet <s.laizet@imperial.ac.uk> (Imperial College London)
 - Heng Xiao <hengxiao@vt.edu> (Virginia Tech) 
