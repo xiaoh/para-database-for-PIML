@@ -20,8 +20,8 @@ Notes on data format:
 
 ### Dataset Presented in CAF Paper Above
 
-![Dataset](para-shapes.png)
-
+![Scheme](para-shapes.png)
+![Dataset](SeparationBubble.png)
 Note: Data for α=3 is present missing.
 
 ### Additional data uploaded on April 15, 2021:
