@@ -21,8 +21,11 @@ Notes on data format:
 ### Dataset Presented in CAF Paper Above
 
 ![Scheme](para-shapes.png)
-![Dataset](SeparationBubble.png)
+
 Note: Data for α=3 is present missing.
+
+![Dataset](SeparationBubble.png)
+
 
 ### Additional data uploaded on April 15, 2021:
 - Dr. Laizet added a *new database with 27 simulations* (Reynolds=5600, 3 different heights, 3 different streamwise extents and 3 different hill shapes). For details see:  [``pehill_new_DNS_database/README``](pehill_new_DNS_database/README_NEWDATABASE.pdf)
