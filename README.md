@@ -34,5 +34,5 @@ Note: Data for α=3 is present missing.
 
 Contact: 
 - Sylvain Laizet <s.laizet@imperial.ac.uk> (Imperial College London)
-- Heng Xiao <hengxiao@vt.edu> (Virginia Tech) 
+- Heng Xiao <heng.xiao@simtech.uni-stuttgart.de> (University of Stuttgart)
 
