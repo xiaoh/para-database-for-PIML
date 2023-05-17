@@ -29,10 +29,12 @@ Note: Data for α=3 is present missing.
 
 ### Additional data uploaded on April 15, 2021:
 - Dr. Laizet added a *new database with 29 simulations* (Reynolds=5600, 3 different heights, 3 different streamwise extents and 5 different hill shapes). For details see:  [``pehill_29_cases DNS/README``](pehill-29-cases-DNS/README_NEWDATABASE.pdf)
+- The new database is also available on [``NASA Langley Turbulence Modeling Resource``](https://turbmodels.larc.nasa.gov/Other_DNS_Data/parameterized_periodic_hills.html).
 
 ![Additiional dataset](pehill-29-cases-DNS/full_databased_HR_T.png)
 
 Contact: 
 - Sylvain Laizet <s.laizet@imperial.ac.uk> (Imperial College London)
 - Heng Xiao <heng.xiao@simtech.uni-stuttgart.de> (University of Stuttgart)
+- Xu-Hui Zhou <xuhuizhou@vt.edu> (Virginia Tech)
 
