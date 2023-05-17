@@ -28,7 +28,7 @@ Note: Data for α=3 is present missing.
 
 
 ### Additional data uploaded on April 15, 2021:
-- Dr. Laizet added a *new database with 29 simulations* (Reynolds=5600, 3 different heights, 3 different streamwise extents and 5 different hill shapes). For details see:  [``pehill_new_DNS_database/README``](pehill-29-cases-DNS/README_NEWDATABASE.pdf)
+- Dr. Laizet added a *new database with 29 simulations* (Reynolds=5600, 3 different heights, 3 different streamwise extents and 5 different hill shapes). For details see:  [``pehill_29_cases DNS/README``](pehill-29-cases-DNS/README_NEWDATABASE.pdf)
 
 ![Additiional dataset](pehill-29-cases-DNS/full_databased_HR_T.png)
 
